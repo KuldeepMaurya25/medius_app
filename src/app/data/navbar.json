@@ -1,0 +1,8 @@
+{
+    "links": {
+        "Home": "/",
+        "About_Us": "aboutUs",
+        "Mortgage_Calculator": "/MortgageCalculator",
+        "Start_Page": "/startPage"
+    }
+}

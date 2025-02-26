@@ -1,0 +1,53 @@
+{
+    "stories": [
+        "Arian",
+        "Amanda",
+        "Paul"
+    ],
+    "answers": {
+        "Our_products": [
+            {
+                "mainText": "Buying your first home with Better",
+                "subText": "",
+                "image": "first-home.webp"
+            },
+            {
+                "mainText": "One Day Mortgage",
+                "subText": "Kick your home loan into hyperdrive. Going from locked rate to Commitment Letter takes weeks for traditional lenders. We do it in a single day. Traditional lenders deliver a Commitment Letter in a few weeks.",
+                "image": "one-day-mortgage.webp"
+            },
+            {
+                "mainText": "Better HELOC",
+                "subText": "Introducing One Day HELOC™—your express lane to getting cash from your home with our Home Equity Line of Credit",
+                "image": "better-heloc.webp"
+            },
+            {
+                "mainText": "Insurance",
+                "subText": "",
+                "image": "insurance.webp"
+            }
+        ],
+        "Calculators": [
+            {
+                "mainText": "Mortgage calculator",
+                "subText": "",
+                "image": "mortgage-calculator.webp"
+            },
+            {
+                "mainText": "Affordability calculator",
+                "subText": "Got homeownership dreams? Let's put some numbers behind them. Our affordability calculator estimates the maximum home you can afford.",
+                "image": "affordability-calculator.webp"
+            },
+            {
+                "mainText": "HELOC calculator",
+                "subText": "Introducing One Day HELOC™—your express lane to getting cash from your home with our Home Equity Line of Credit",
+                "image": "heloc-calculator.webp"
+            },
+            {
+                "mainText": "Fixed-rate loan comparison calculator",
+                "subText": "",
+                "image": "fixed-rate-calculator.webp"
+            }
+        ]
+    }
+}
