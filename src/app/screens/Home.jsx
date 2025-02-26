@@ -60,7 +60,8 @@ const HomeScreen = () => {
             <section className='section m-auto flex max-w-screen-2xl flex-col justify-between gap-x-[64px] px-[24px] p-[16px] py-[80px] md:px-10 md:flex-row-reverse xl:p-[120px]'>
                 <div className="flex flex-col justify-center md:max-w-[507px]">
                     <h2 className="font-bold  m-0 p-0 w-auto tracking-tight md:tracking-tighter mb-4 text-3xl leading-[6rem]  lg:text-[88px]">Find out why we’re better.</h2>
-                    <a className="inline-flex items-center justify-center whitespace-nowrap rounded-full text-base font-bold leading-normal disabled:pointer-events-none disabled:opacity-50 transition-all ease-in-out duration-200 bg-primary text-white hover:bg-secondary h-16 px-12 py-5 mb-[12px] w-full md:w-fit" href="/about-us/">See all our stories</a>
+                    <Link className="inline-flex items-center justify-center whitespace-nowrap rounded-full text-base font-bold leading-normal disabled:pointer-events-none disabled:opacity-50 transition-all ease-in-out duration-200 bg-primary text-white hover:bg-secondary h-16 px-12 py-5 mb-[12px] w-full md:w-fit" href="/about-us/">See all our stories
+                    </Link>
                     <div className="mb-10 flex items-end justify-center gap-2 leading-4  md:justify-start">
                         <GreenStarLogo />
                         <span><strong>Excellent</strong></span><span><strong>4.4</strong> out of 5</span>

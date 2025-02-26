@@ -21,11 +21,14 @@ export default function NavbarComponent() {
     const pathname = usePathname();
 
     useEffect(() => {
-        console.log(window.innerHeight * 0.6)
-        if (pathname != '/')
+
+        if (pathname != '/') {
+            setIsScrolled(true);
             return;
+        }
+
         const handleScroll = () => {
-            const thresoldValue = window.innerHeight * 1.44
+            const thresoldValue = window.innerHeight * 2.44
             const scrollPosition = window.scrollY;
 
             if (scrollPosition > thresoldValue) {

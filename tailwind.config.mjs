@@ -14,7 +14,8 @@ export default {
         foreground: "var(--foreground)",
         primary: "#004733",
         secondary: "#1ee07f",
-        textPrimary: "#292b29"
+        textPrimary: "#292b29",
+        textSecondary:"#565d5a"
       },
     },
   },
