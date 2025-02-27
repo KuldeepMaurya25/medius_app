@@ -28,7 +28,7 @@ export default function NavbarComponent() {
         }
 
         const handleScroll = () => {
-            const thresoldValue = window.innerHeight * 2.44
+            const thresoldValue = window.innerHeight * 1.44
             const scrollPosition = window.scrollY;
 
             if (scrollPosition > thresoldValue) {

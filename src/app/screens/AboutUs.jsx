@@ -44,7 +44,7 @@ const AboutUs = () => {
                 </div>
             </section>
             <section className='px-20 py-28'>
-                <h2 className='font-bold text-textPrimary  m-0 p-0 tracking-normal w-auto text-2xl md:text-4xl md:tracking-tight text-center'>Backed By</h2>
+                <h2 className='font-bold text-textPrimary  m-0 p-0 tracking-normal w-auto text-2xl md:text-3xl md:tracking-tight text-center'>Backed By</h2>
                 <div className='m-auto mt-20 flex max-w-screen-2xl flex-wrap justify-around'>
                     <Link href='#'><SoftBankLogo /></Link>
                     <Link href='#'><AllyLogo /></Link>
@@ -60,67 +60,67 @@ const AboutUs = () => {
                 <div className="relative m-auto w-1/3 before:absolute before:left-1/2 before:block before:h-full before:w-1 before:translate-x-2/4 before:bg-[#e8eae6]">
                     <div className="relative flex flex-col items-center"><div className="inline-block rounded-full bg-[#017848] px-8 py-2">
                         <h3 className="font-bold leading-heading m-0 p-0 tracking-normal w-auto text-lg md:text-xl text-white">2014</h3></div>
-                        <div className="rounded-sm relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 -ml-6 -translate-x-1/2 lg:-ml-8">
+                        <div className="rounded-lg relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 -ml-6 -translate-x-1/2 lg:-ml-8">
                             <p className="font-normal leading-body m-0 p-0 text-left text-textSecondary text-base">After Vishal Garg’s first attempt to purchase his own dream home, he quickly realized that the homebuying process is unnecessarily broken. This inspired him to found a technology-first company led by engineers and data experts with the mission of digitizing and automating home finance to make it cheaper, easier, and faster for all.</p>
                         </div></div><div className="relative flex flex-col items-center">
                         <div className="inline-block rounded-full bg-[#017848] px-8 py-2">
                             <h3 className="font-bold leading-heading m-0 p-0 tracking-normal w-auto text-lg md:text-xl text-white">2015</h3>
-                        </div><div className="rounded-sm relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 ml-6 translate-x-1/2 lg:ml-8">
+                        </div><div className="rounded-lg relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 ml-6 translate-x-1/2 lg:ml-8">
                             <p className="font-normal leading-body m-0 p-0 text-left text-textSecondary text-base">
                                 Better Mortgage funds its first mortgage loan entirely online (without a single phone call!).</p>
                         </div></div><div className="relative flex flex-col items-center">
                         <div className="inline-block rounded-full bg-[#017848] px-8 py-2">
                             <h3 className="font-bold leading-heading m-0 p-0 tracking-normal w-auto text-lg md:text-xl text-white">2016</h3>
                         </div>
-                        <div className="rounded-sm relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 -ml-6 -translate-x-1/2 lg:-ml-8">
+                        <div className="rounded-lg relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 -ml-6 -translate-x-1/2 lg:-ml-8">
                             <p className="font-normal leading-body m-0 p-0 text-left text-textSecondary text-base">
                                 Better Mortgage becomes a Fannie Mae approved seller + servicer and establishes relationships with top mortgage investors.</p>
                         </div></div><div className="relative flex flex-col items-center">
                         <div className="inline-block rounded-full bg-[#017848] px-8 py-2">
                             <h3 className="font-bold leading-heading m-0 p-0 tracking-normal w-auto text-lg md:text-xl text-white">2017
                             </h3></div>
-                        <div className="rounded-sm relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 ml-6 translate-x-1/2 lg:ml-8">
+                        <div className="rounded-lg relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 ml-6 translate-x-1/2 lg:ml-8">
                             <p className="font-normal leading-body m-0 p-0 text-left text-textSecondary text-base">
                                 Better expands into the real estate market with Better Real Estate.</p></div>
                     </div><div className="relative flex flex-col items-center">
                         <div className="inline-block rounded-full bg-[#017848] px-8 py-2">
                             <h3 className="font-bold leading-heading m-0 p-0 tracking-normal w-auto text-lg md:text-xl text-white">2018</h3>
                         </div>
-                        <div className="rounded-sm relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 -ml-6 -translate-x-1/2 lg:-ml-8">
+                        <div className="rounded-lg relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 -ml-6 -translate-x-1/2 lg:-ml-8">
                             <p className="font-normal leading-body m-0 p-0 text-left text-textSecondary text-base">
                                 Better Mortgage partners with Ally Bank to build Ally powered by Better.</p>
                         </div></div><div className="relative flex flex-col items-center">
                         <div className="inline-block rounded-full bg-[#017848] px-8 py-2">
                             <h3 className="font-bold leading-heading m-0 p-0 tracking-normal w-auto text-lg md:text-xl text-white">2019</h3>
-                        </div><div className="rounded-sm relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 ml-6 translate-x-1/2 lg:ml-8">
+                        </div><div className="rounded-lg relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 ml-6 translate-x-1/2 lg:ml-8">
                             <p className="font-normal leading-body m-0 p-0 text-left text-textSecondary text-base">Better Mortgage launches its pilot partnership with American Express to deliver a seamless homebuying experience to AMEX customers.</p></div>
                     </div><div className="relative flex flex-col items-center">
                         <div className="inline-block rounded-full bg-[#017848] px-8 py-2">
                             <h3 className="font-bold leading-heading m-0 p-0 tracking-normal w-auto text-lg md:text-xl text-white">2021</h3>
-                        </div><div className="rounded-sm relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 -ml-6 -translate-x-1/2 lg:-ml-8">
+                        </div><div className="rounded-lg relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 -ml-6 -translate-x-1/2 lg:-ml-8">
                             <p className="font-normal leading-body m-0 p-0 text-left text-textSecondary text-base"
                             >Better acquires Trussle — The UK’s most innovative online mortgage broker.</p></div>
                     </div><div className="relative flex flex-col items-center">
                         <div className="inline-block rounded-full bg-[#017848] px-8 py-2">
                             <h3 className="font-bold leading-heading m-0 p-0 tracking-normal w-auto text-lg md:text-xl text-white">
-                                2022</h3></div><div className="rounded-sm relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 ml-6 translate-x-1/2 lg:ml-8">
+                                2022</h3></div><div className="rounded-lg relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 ml-6 translate-x-1/2 lg:ml-8">
                             <p className="font-normal leading-body m-0 p-0 text-left text-textSecondary text-base">
                                 Better Mortgage becomes the first fintech to fund $100B home loans entirely online.</p></div>
                     </div><div className="relative flex flex-col items-center"><div className="inline-block rounded-full bg-[#017848] px-8 py-2">
                         <h3 className="font-bold leading-heading m-0 p-0 tracking-normal w-auto text-lg md:text-xl text-white">2023</h3>
-                    </div><div className="rounded-sm relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 -ml-6 -translate-x-1/2 lg:-ml-8">
+                    </div><div className="rounded-lg relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 -ml-6 -translate-x-1/2 lg:-ml-8">
                             <p className="font-normal leading-body m-0 p-0 text-left text-textSecondary text-base">Better Mortgage launches One Day Mortgage¹: The first offering to customers to go from application to <Link href="/with/one-day-mortgage-terms/">
                                 full mortgage Commitment Letter within 24 hours</Link> vs. typical industry process of 30+ days.</p>
                         </div>
-                        <div className="rounded-sm relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 ml-6 translate-x-1/2 lg:ml-8">
+                        <div className="rounded-lg relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 ml-6 translate-x-1/2 lg:ml-8">
                             <p className="font-normal leading-body m-0 p-0 text-left text-textSecondary text-base">Better Mortgage launches the fully digital 3-day HELOC².</p>
-                        </div><div className="rounded-sm relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 -ml-6 -translate-x-1/2 lg:-ml-8">
+                        </div><div className="rounded-lg relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 -ml-6 -translate-x-1/2 lg:-ml-8">
                             <p className="font-normal leading-body m-0 p-0 text-left text-textSecondary text-base">Better Mortgage launches One Day Verified Approval Letter.</p>
                         </div></div><div className="relative flex flex-col items-center">
                         <div className="inline-block rounded-full bg-[#017848] px-8 py-2">
                             <h3 className="font-bold leading-heading m-0 p-0 tracking-normal w-auto text-lg md:text-xl text-white">Today</h3>
                         </div>
-                        <div className="rounded-sm relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 ml-6 translate-x-1/2 lg:ml-8">
+                        <div className="rounded-lg relative w-full bg-[#dfe0dc] my-4 p-8 lg:p-10 ml-6 translate-x-1/2 lg:ml-8">
                             <p className="font-normal leading-body m-0 p-0 text-left text-textSecondary text-base">You become part of the story by joining tens of thousands of happy Better Mortgage borrowers.
                                 <Link className="rounded-lg  text-base text-center font-bold select-none outline-none transition duration-300 ease-universal focus:shadow-[0_0_0_4px_inset] disabled:text-interactiveForegroundMuted disabled:bg-interactiveMuted disabled:shadow-none text-white bg-[#017848] hover:bg-primary focus:bg-accentPrimary focus:shadow-accentBorderPrimary active:bg-accentPrimary px-5 h-14 items-center justify-center mt-4 flex w-fit" href="#">
                                     Get started
